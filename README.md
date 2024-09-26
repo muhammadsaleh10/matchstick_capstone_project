@@ -71,9 +71,5 @@ Matchstick is a user-friendly app designed for Pakistani Muslim matchmakers and 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## **Contact**
-
-- **Developer**: Haris Adnan
-- **Email**: haris@example.com
 
 Feel free to reach out if you have any questions or suggestions!
